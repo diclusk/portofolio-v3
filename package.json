@@ -1,10 +1,6 @@
 {
-<<<<<<< HEAD
   "name": "portfolio-v3",
   "homepage": "",
-=======
-  "name": "portfolio-v2",
->>>>>>> ae14e8d4b0748ca05deb60912d946369d2fd64b2
   "private": true,
   "version": "2.0.0",
   "type": "module",
@@ -15,14 +11,10 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-<<<<<<< HEAD
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "gh-pages-clean": "gh-pages-clean"
-=======
-    "preview": "vite preview"
->>>>>>> ae14e8d4b0748ca05deb60912d946369d2fd64b2
   },
   "dependencies": {
     "@base-ui/react": "^1.6.0",
@@ -43,10 +35,7 @@
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.3.1",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> ae14e8d4b0748ca05deb60912d946369d2fd64b2
     "vite": "^5.4.8"
   }
 }
